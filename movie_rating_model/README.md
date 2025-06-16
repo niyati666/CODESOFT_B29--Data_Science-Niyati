@@ -65,4 +65,5 @@ See requirements.txt
 
 * Credits
 Project by: NIYATI
-Dataset: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
+Dataset: Imdb/kaggle
+https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
