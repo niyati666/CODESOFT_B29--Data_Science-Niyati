@@ -1,5 +1,5 @@
-# CodeSoft (Data Science)
-
+# CodeSoft (BATCH29)
+## Data Science Internship
 This repository contains three models built for classification and regression tasks using popular datasets. For my DataScience Internship
 
 ---
