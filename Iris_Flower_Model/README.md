@@ -78,7 +78,7 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 
 # Save the model
 joblib.dump(model, 'iris_model.pkl')
-
+```
 
 ## How to Run
 
@@ -103,5 +103,5 @@ See requirements.txt
 
 
 ## Credits
-Project by: NIYATI
-Dataset : https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+- Project by: NIYATI
+- Dataset : https://www.kaggle.com/datasets/arshid/iris-flower-dataset
