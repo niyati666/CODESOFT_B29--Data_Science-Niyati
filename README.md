@@ -2,89 +2,77 @@
 
 This repository contains three models built for classification and regression tasks using popular datasets. For my DataScience Internship
 
-#  Projects
-1️⃣ Titanic Survival Prediction
+---
+
+## Projects
+### 1. Titanic Survival Prediction
 Predict whether a passenger survived the Titanic disaster based on features like:
+> Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 
-Pclass
+- Algorithm: Random Forest Classifier
+- Output: titanic_model.pkl
 
-Sex
 
-Age
 
-SibSp
-
-Parch
-
-Fare
-
-Embarked
-
-✅ Algorithm: Random Forest Classifier
-✅ Output: titanic_model.pkl
-
-2️⃣ Movie Rating Prediction
+### 2️. Movie Rating Prediction
 Predict movie ratings using various movie features.
+> Name, Year, Duration, Genre, Rating, Votes, Director, Actors
 
-✅ Algorithm: Linear Regression / Random Forest Regressor (as per your code)
-✅ Output: movie_rating_model.pkl
+- Algorithm: Linear Regression / Random Forest Regressor (as per your code)
+- Output: movie_rating_model.pkl
 
-3️⃣ Iris Flower Classification
+
+
+### 3️. Iris Flower Classification
 Classify Iris flowers into:
 
-Iris-setosa
-
-Iris-versicolor
-
-Iris-virginica
+> Iris-setosa,
+> Iris-versicolor,
+> Iris-virginica
 
 based on:
 
-sepal_length
+> sepal_length, sepal_width, petal_length, petal_width
 
-sepal_width
+- Algorithm: Random Forest Classifier
+- Output: iris_model.pkl
 
-petal_length
-
-petal_width
-
-✅ Algorithm: Random Forest Classifier
-✅ Output: iris_model.pkl
+---
 
 
-## 🛠 How to Run
+## How to Run
 For each model:
-1️⃣ Load the dataset
-2️⃣ Preprocess the data (handle missing values, encode categories)
-3️⃣ Train the model
-4️⃣ Evaluate performance
-5️⃣ Save the model using joblib
+- 1️. Load the dataset
+- 2️. Preprocess the data (handle missing values, encode categories)
+- 3️. Train the model
+- 4️. Evaluate performance
+- 5️. Save the model using joblib
 
+---
 
-## 💾 Requirements
-see requirements.txt with:
+## Requirements
+see requirements.txt:
+- pandas
+- scikit-learn
+- joblib
 
-pandas
-scikit-learn
-joblib
-
-👉 Install dependencies:
+##### Install dependencies:
 pip install -r requirements.txt
 
+----
+## Files
+- titanic_model.pkl — Trained Titanic survival prediction model
 
-## 📂 Files
-titanic_model.pkl — Trained Titanic survival prediction model
+- movie_rating_model.pkl — Trained movie rating prediction model
 
-movie_rating_model.pkl — Trained movie rating prediction model
+- iris_model.pkl — Trained Iris flower classification model
 
-iris_model.pkl — Trained Iris flower classification model
+- README.md — Documentation
 
-README.md — Documentation
+- requirements.txt — Dependencies
 
-requirements.txt — Dependencies
-
-
-## ✅ Note
+----
+## Note
 These models are designed as starter machine learning projects suitable for beginners learning model training, evaluation, and saving/loading with scikit-learn.
 
 
@@ -97,6 +85,8 @@ model = joblib.load('iris_model.pkl')
 prediction = model.predict([[5.1, 3.5, 1.4, 0.2]])
 print(prediction)
 ```
+---
 
-## ✨ Credits
-Developed as part of CodeSoft internship projects.
+## Credits
+- Project by: *NIYATI*
+ - Developed as part of CodeSoft internship projects.
