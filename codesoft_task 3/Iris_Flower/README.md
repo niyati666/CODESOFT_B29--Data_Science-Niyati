@@ -1,11 +1,35 @@
 # Iris Flower Classification
+This repository contains a machine learning model and a simple web application for predicting the species of an iris flower based on its measurements. The model was built using **RandomForestClassifier**, and the app was developed using **Streamlit** as part of my internship project at [Codesoft].
 
-This project uses the famous Iris dataset to train a machine learning model that classifies Iris flowers into three species:
-- Iris-setosa
-- Iris-versicolor
-- Iris-virginica
+- This project uses the famous Iris dataset to train a machine learning model that classifies Iris flowers into three species:
+   - Iris-setosa
+   - Iris-versicolor
+   - Iris-virginica
 
 The model is built using the Random Forest algorithm and uses the sepal and petal measurements as input features.
+
+##  App Overview
+The app allows users to:
+- Input flower measurements (sepal length, sepal width, petal length, petal width)
+- Get instant predictions for Iris Setosa, Versicolor, or Virginica
+- Enjoy a clean and interactive interface with sliders and buttons
+
+ **Screenshot of the app**
+<p align="center">
+  <img src=""![Screenshot 2025-06-18 221124](https://github.com/user-attachments/assets/a0d82170-7198-4975-9107-f11d772d3210)"" width="500"/>
+  <img src=""![Screenshot 2025-06-18 221209](https://github.com/user-attachments/assets/0dabfb04-df56-4b03-9fd2-9e4d1d3882f6)"" width="500"/>
+</p>
+
+## 🚀 How to Run APP
+
+1️. Clone the repository:
+git clone https://github.com/niyati666/your-repo-name.git cd your-repo-name
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3️. Run the app:
+streamlit run app.py
 
 
 ## Files
@@ -105,3 +129,4 @@ See requirements.txt
 ## Credits
 - Project by: NIYATI
 - Dataset : https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+- App URL : https://6e4a-34-138-52-204.ngrok-free.app/
