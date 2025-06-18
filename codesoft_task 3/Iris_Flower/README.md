@@ -1,5 +1,5 @@
 # Iris Flower Classification
-This repository contains a machine learning model and a simple web application for predicting the species of an iris flower based on its measurements. The model was built using **RandomForestClassifier**, and the app was developed using **Streamlit** as part of my internship project at [Codesoft].
+This repository contains a machine learning model and a simple web application for predicting the species of an iris flower based on its measurements. The model was built using **RandomForestClassifier**, and the app was developed using **Streamlit**.
 
 - This project uses the famous Iris dataset to train a machine learning model that classifies Iris flowers into three species:
    - Iris-setosa
@@ -16,8 +16,8 @@ The app allows users to:
 
  **Screenshot of the app**
 <p align="center">
-  <img src=""![Screenshot 2025-06-18 221124](https://github.com/user-attachments/assets/a0d82170-7198-4975-9107-f11d772d3210)"" width="500"/>
-  <img src=""![Screenshot 2025-06-18 221209](https://github.com/user-attachments/assets/0dabfb04-df56-4b03-9fd2-9e4d1d3882f6)"" width="500"/>
+  <img src=""![Screenshot 2025-06-18 221124](https://github.com/user-attachments/assets/a0d82170-7198-4975-9107-f11d772d3210)"" width="400"/>
+  <img src=""![Screenshot 2025-06-18 221209](https://github.com/user-attachments/assets/0dabfb04-df56-4b03-9fd2-9e4d1d3882f6)"" width="400"/>
 </p>
 
 ## 🚀 How to Run APP
