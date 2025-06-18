@@ -129,4 +129,3 @@ See requirements.txt
 ## Credits
 - Project by: NIYATI
 - Dataset : https://www.kaggle.com/datasets/arshid/iris-flower-dataset
-- App URL : https://6e4a-34-138-52-204.ngrok-free.app/
