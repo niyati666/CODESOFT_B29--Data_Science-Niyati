@@ -16,7 +16,7 @@ The app allows users to:
 
  **Screenshot of the app**
  
-  ![App Screenshot](https://github.com/YourUsername/YourRepoName/raw/main/images/screenshot1.png)
+  ![App Screenshot](https://github.com/niyati666/CODESOFT_B29--Data_Science-Niyati/blob/main/codesoft_task%203/Iris_Flower/Screenshot%202025-06-18%20221124.png?raw=true)
   ![App Screenshot](https://github.com/YourUsername/YourRepoName/raw/main/images/screenshot1.png)
 
 
