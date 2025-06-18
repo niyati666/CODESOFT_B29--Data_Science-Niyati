@@ -15,10 +15,10 @@ The app allows users to:
 - Enjoy a clean and interactive interface with sliders and buttons
 
  **Screenshot of the app**
-<p align="center">
-  <img src=""![Screenshot 2025-06-18 221124](https://github.com/user-attachments/assets/a0d82170-7198-4975-9107-f11d772d3210)"" width="400"/>
-  <img src=""![Screenshot 2025-06-18 221209](https://github.com/user-attachments/assets/0dabfb04-df56-4b03-9fd2-9e4d1d3882f6)"" width="400"/>
-</p>
+ 
+  ![App Screenshot](https://github.com/YourUsername/YourRepoName/raw/main/images/screenshot1.png)
+  ![App Screenshot](https://github.com/YourUsername/YourRepoName/raw/main/images/screenshot1.png)
+
 
 ## 🚀 How to Run APP
 
